@@ -41,9 +41,3 @@ The goal of this project is to accurately distinguish between **normal** and **a
 - The SVM classifier achieved good generalization on unseen test data.
 - We achieved classification accuracy of 88.24%
 - Confusion matrix and classification report included in the notebook.
-
-
-## References
-
-- Lavi, A., & Polak, S. (2018). Stacked sparse autoencoder for network intrusion detection. *Communications in Computer and Information Science*.
-- NSL-KDD Dataset: [https://www.unb.ca/cic/datasets/nsl.html](https://www.unb.ca/cic/datasets/nsl.html)

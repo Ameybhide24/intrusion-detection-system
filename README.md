@@ -26,7 +26,7 @@ The goal of this project is to accurately distinguish between **normal** and **a
 - Uses features from the 5-dimensional bottleneck layer
 - Classifies into `normal` vs `attack` traffic
 
-## 🧪 Evaluation
+## Evaluation
 
 - Evaluated on KDDTest+ set
 - Metrics:
